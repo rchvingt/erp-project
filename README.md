@@ -68,3 +68,9 @@ Then the project running on your available address, http://localhost:8000
 -   The **Master Material and Supplier** features have been completed.
 -   The **Purchasing Module** is still in progress.
 -   The **Warehouse Module** has not been started.
+
+## ERD
+
+The initial design of the project was based on the following ERP diagram: [Initial ERP Diagram](https://dbdiagram.io/d/ERP_V1-66db9dc9eef7e08f0ef5d4ec).
+
+However, there have been changes, and the updated design can be found here: [Updated ERP Diagram](https://dbdiagram.io/d/ERP_V1_rev-66e299276dde7f4149dec162).
