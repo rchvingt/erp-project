@@ -59,6 +59,7 @@ Then the project running on your available address, http://localhost:8000
     - Password: `12345678`
 2. **Create a Role** and assign permissions to the Role.
 3. **Create an Admin** and assign multiple Roles to the Admin.
+    - Make sure to check all the dashboard permission to access the sidebar menu easily.
 4. **Test the setup** by logging in with the newly created credentials.
 5. If you do not have sufficient permissions to perform any task, a warning message will appear.
 
