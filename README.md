@@ -27,7 +27,7 @@ Install Laravel Dependencies
 composer install
 ```
 
-Create MySQL database called - `erp-project`
+Create MySQL database called - `erp_project`
 
 Create `.env` file by copying `.env.example` file
 
