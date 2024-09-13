@@ -26,13 +26,13 @@ class RolePermissionSeeder extends Seeder
 
         // Permission List as array
         $permissions = [
-            [
-                'group_name' => 'dashboard',
-                'permissions' => [
-                    'dashboard.view',
-                    'dashboard.edit',
-                ],
-            ],
+            // [
+            //     'group_name' => 'dashboard',
+            //     'permissions' => [
+            //         'dashboard.view',
+            //         'dashboard.edit',
+            //     ],
+            // ],
 
             [
                 'group_name' => 'admin',
